@@ -1,6 +1,0 @@
-Entered inputs are: 23
-Entered inputs are: 44
-Entered inputs are: 12
-Entered inputs are: 56
-Entered inputs are: 65
-

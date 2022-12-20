@@ -3,7 +3,7 @@
 import pandas as pd
 l=[]
 for i in range(5):
-    n=int(input())
+    n=int(input(f"Enter {i+1}'st val:"))
     l.append(n**2)
 pow=pd.Series(l)
 print(pow)
